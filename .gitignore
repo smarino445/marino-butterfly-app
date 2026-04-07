@@ -1,0 +1,11 @@
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

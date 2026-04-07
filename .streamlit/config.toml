@@ -1,0 +1,10 @@
+# Streamlit configuration file
+# This file is safe to commit and is shared with students
+
+[theme]
+# Use a light base theme; custom CSS handles detailed styling
+base = "light"
+
+[server]
+# Prevents Streamlit from opening a browser tab when run locally
+headless = true
