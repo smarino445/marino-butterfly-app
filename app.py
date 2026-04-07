@@ -11,7 +11,7 @@ import streamlit as st
 # ──────────────────────────────────────────────────────────────────────────────
 
 # Change ONLY if your endpoint changes
-ENDPOINT_URL = "https://askai.aiclub.world/83845c7c-6fc6-42c0-a3d4-b1918a688783"
+ENDPOINT_URL = "https://askai.aiclub.world/1c247ede-4d21-42d0-a57e-2e59d32b2f37"
 
 st.set_page_config(page_title="Butterfly Classifier (OIDC)", layout="centered")
 
